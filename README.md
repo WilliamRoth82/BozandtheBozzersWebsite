@@ -72,13 +72,21 @@ Blah blah
 
 ## About the team
 
-<img src="pics/julio.jpg" alt="julio" width="300"/>
+<img src="pics/julio.jpg" alt="Boz" width="300"/>
 <br>
-Julio is a senior at Lehigh studying finance.
+The Boz, aka Bos, is ______
 <br><br><br>
-<img src="pics/don2.jpg" alt="don" width="300"/>
+<img src="pics/julio.jpg" alt="Bozymandias" width="300"/>
 <br>
-Don is an assistant professor at Lehigh.
+Bozymandias, aka Will, is a senior at Lehigh studying finance.
+<br><br><br>
+<img src="pics/julio.jpg" alt="Bozington" width="300"/>
+<br>
+Bozington, aka Linh, is a senior at Lehigh studying finance.
+<br><br><br>
+<img src="_______" alt="Bozzler" width="300"/>
+<br>
+Bozzler, aka Carter, is _____
 
 
 ## More 
