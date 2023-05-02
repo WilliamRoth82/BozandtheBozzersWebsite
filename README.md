@@ -1,4 +1,4 @@
-<span style="color:red;">Welcome to Bozland</span> text.
+<span style="color:red;">Welcome to Bozland</span>!
 ### Home of the Bozzers
 
 --
