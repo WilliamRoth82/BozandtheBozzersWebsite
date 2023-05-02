@@ -1,5 +1,5 @@
-<span style="color:blue; font-size:24px; font-weight:bold;">Welcome to Bozland!</span> <br>
-<span style="color:blue; font-size:24px; font-weight:bold;">Home of the Bozzers</span>
+<span style="color:lightblue; font-size:24px; font-weight:bold;">Welcome to Bozland!</span> <br>
+<span style="color:light_blue; font-size:24px; font-weight:bold;">Home of the Bozzers</span>
 
 --
 
