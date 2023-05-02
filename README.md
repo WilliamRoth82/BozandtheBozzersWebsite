@@ -76,7 +76,7 @@ Blah blah
 <br>
 The Boz, aka Bos, is ______
 <br><br><br>
-<img src="pics/julio.jpg" alt="Bozymandias" width="300"/>
+<img src="1670108665895.jpg" alt="Bozymandias" width="300"/>
 <br>
 Bozymandias, aka Will, is a senior at Lehigh studying finance.
 <br><br><br>
@@ -84,11 +84,11 @@ Bozymandias, aka Will, is a senior at Lehigh studying finance.
 <br>
 Bozington, aka Linh, is a senior at Lehigh studying finance.
 <br><br><br>
-<img src="_______" alt="Bozzler" width="300"/>
+<img src="pics/julio.jpg" alt="Bozzler" width="300"/>
 <br>
 Bozzler, aka Carter, is _____
 
 
 ## More 
 
-To view the GitHub repo for this website, click [here](https://github.com/donbowen/teamproject).
+To view the GitHub repo for this website, click [here](https://github.com/WilliamRoth82/BozandtheBozzers).
