@@ -1,6 +1,5 @@
-
-# Welcome to Bozland
-## Home of the Bozzers
+<span style="color:red;">Welcome to Bozland</span> text.
+### Home of the Bozzers
 
 --
 
